@@ -1,0 +1,18 @@
+[submodule "mpt-open-api"]
+	path = mpt-open-api
+	url = https://github.com/musinsa-price-tracker/mpt-open-api.git
+[submodule "mpt-goods-server"]
+	path = mpt-goods-server
+	url = https://github.com/musinsa-price-tracker/mpt-goods-server.git
+[submodule "mpt-front-server"]
+	path = mpt-front-server
+	url = https://github.com/musinsa-price-tracker/mpt-front-server.git
+[submodule "mpt-alarm-server"]
+	path = mpt-alarm-server
+	url = https://github.com/musinsa-price-tracker/mpt-alarm-server.git
+[submodule "mpt-auth-server"]
+	path = mpt-auth-server
+	url = https://github.com/musinsa-price-tracker/mpt-auth-server.git
+[submodule "mpt-crawler"]
+	path = mpt-crawler
+	url = https://github.com/musinsa-price-tracker/mpt-crawler.git
